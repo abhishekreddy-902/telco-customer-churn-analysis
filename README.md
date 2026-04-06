@@ -160,6 +160,9 @@ Power BI dashboard provides interactive visualizations for:
 * Service-based analysis
 
 
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](Telco Churn Customer Dashboard)
 ---
 
 
