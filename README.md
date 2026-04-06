@@ -162,7 +162,7 @@ Power BI dashboard provides interactive visualizations for:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](Telco Churn Customer Dashboard)
+![Dashboard Screenshot](C:\Users\Dell\OneDrive\Pictures\Screenshots\Telco Churn Customer Dashboard.png)
 ---
 
 
